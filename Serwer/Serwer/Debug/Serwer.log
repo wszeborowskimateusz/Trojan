@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\mateusz\desktop\pr_lab_trojan\serwer\serwer\main.cpp(180): warning C4101: 'window': unreferenced local variable
+c:\users\mateusz\desktop\pr_lab_trojan\serwer\serwer\main.cpp(507): warning C4018: '<': signed/unsigned mismatch
+c:\users\mateusz\desktop\pr_lab_trojan\serwer\serwer\main.cpp(514): warning C4018: '<': signed/unsigned mismatch
+c:\users\mateusz\desktop\pr_lab_trojan\serwer\serwer\main.cpp(521): warning C4018: '<': signed/unsigned mismatch
+c:\users\mateusz\desktop\pr_lab_trojan\serwer\serwer\main.cpp(528): warning C4018: '<': signed/unsigned mismatch
+  Serwer.vcxproj -> C:\Users\Mateusz\Desktop\PR_Lab_Trojan\Serwer\Debug\Serwer.exe
